@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-52699.jpg);
+    background-size: rgb(10, 39, 225);
+    background-size: cover;
+    text-align: center;
+    font-size:x-large
+}
+/*body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(2, 77, 77);
+    color: beige;
+}*/
+
+h4 {
+    font-weight: normal;
+}
+h1 {
+    color: rgb(28, 47, 170)
+}
+
+h2 {
+    
+    text-align: center;
+    text-decoration: underline;
+}
+
+.portafolio {
+    color: black;
+    text-align: center;
+
+    img {
+        width: 50%;
+    } 
+}
+
+.actividades ul{
+    color:black;
+    border-radius: 16px;
+    
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#contacto {
+    text-align: center;
+
+}
+
